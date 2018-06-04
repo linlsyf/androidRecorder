@@ -16,3 +16,7 @@ Error:Execution failed for task ':app:mergeMemreleaseDebugResources'.
 > Could not find method rename() for arguments [public.xml] on object of type org.gradle.api.internal.file.copy.CopySpecWrapper_Decorated.
 
 解决方式：未知
+
+
+
+如果想改JDK或者SDK的路径,必须两个一起更改,路径必须没有空格:切记!
