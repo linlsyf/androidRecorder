@@ -1,0 +1,18 @@
+
+//合鸿达 标准版
+https://10.0.0.29:1443/svn/mOSApp/MiraclePushClient_BZB
+
+================================================================
+/**
+	 *  广电统一平台
+	 * 移动代码到  https://10.0.0.10/svn/MiraclePushClient_NewUI/trunk
+	 * 包名改为cn.edu.MiracleOAClient
+	 */
+
+==========AS通版=====
+
+ssh://dongyongshen@10.0.0.74:22/git/android/MiraclePushClient/.git
+
+
+==========旧代码===
+https://10.0.0.29:1443/svn/mOSApp
